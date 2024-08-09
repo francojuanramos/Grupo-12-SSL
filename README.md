@@ -10,7 +10,7 @@ Investigar dos lenguajes de programación excluidos: C y C++, buscar las BNF del
 
 ### Grupo 12:
 - Agustín Annetta.
-- Camila Gonzales.
+- Camila Valentina González.
 - Franco Ramos.
 - Oriana Sosa Traversa
 - Ramiro Alvarez.
